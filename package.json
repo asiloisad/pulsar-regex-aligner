@@ -1,6 +1,6 @@
 {
   "name": "regex-aligner",
-  "description": "Align text using regular expression or simply align multiple cursors",
+  "description": "Align text using regular expressions or align multiple cursors",
   "repository": "https://github.com/asiloisad/pulsar-regex-aligner.git",
   "keywords": [
     "regex",
